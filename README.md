@@ -1,3 +1,4 @@
+This project is tested with BrowserStack.
 # Multi-Concept React Template
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/ubaimutl/react-template/blob/main/LICENSE)
